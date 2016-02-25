@@ -1,6 +1,35 @@
-"container"{
-color: aqua;
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300&subset=latin,latin-ext);
+.body{
+font-family: 'Lato', sans-serif;}
+.logo {
+margin-top: 270px;
 }
 
-"jumbotron"{
-font: helvetica;}
+.main p {
+text-align: center;}
+
+.jeden{
+background: url(img/1.jpg) center top no-repeat;
+    margin-top: -20px;
+    height: 844px;
+   
+}
+
+.dwa{
+background: url(img/2.jpg) center top no-repeat;
+    
+    height: 844px;
+}
+
+.bialy{
+color: white;
+font-family: 'Lato', sans-serif;
+margin-top: 50px;}
+
+.rozmiar{
+font-size: 20px;
+margin-top: 50px;}
+
+.wiecej{
+color: whitesmoke;
+text-align: right}
