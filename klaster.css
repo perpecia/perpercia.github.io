@@ -13,7 +13,7 @@ text-align: center;}
 background: url(img/1.jpg) center top no-repeat;
     margin-top: -20px;
     height: 879px;
-    width: 1500 px;
+    width: 1500px;
    
 }
 
@@ -74,8 +74,9 @@ color: white;}
 
 .tlopodstrona{
 background: url(img/tloa.jpg) center top no-repeat;
-
-height: 1440px;}
+height: 1440px;
+width: 1500px;
+}
 
 .margines{
 margin: 0px;
@@ -125,3 +126,4 @@ text-align: center;}
 
 .wiadomosc{
 margin-top: 30px;}
+
