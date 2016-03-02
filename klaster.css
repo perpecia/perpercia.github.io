@@ -91,7 +91,8 @@ height: 728px;
 
 .bialy3{
 color: white;
-margin-top: 150px;}
+margin-top: 150px;
+text-align: center;}
 
 .napisprogram{
     color: white;
@@ -117,3 +118,10 @@ margin-bottom: 30px;
 .marginesy{
 margin-left: 200px;
 margin-right: 200px;}
+
+.wyslijb{
+text-align: center;}
+
+
+.wiadomosc{
+margin-top: 30px;}
