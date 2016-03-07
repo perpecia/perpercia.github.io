@@ -73,8 +73,8 @@ color: white;}
 
 
 .tlopodstrona{
-background: url(img/tloa.jpg) center top no-repeat;
-   padding-bottom: 80px;
+background-color: #272a2c;
+   padding-bottom: 0px;
 
 }
 
@@ -135,6 +135,7 @@ margin-top: 100px;
 
 .tekstpodstrona{
 margin-top: 30px;
+    color: white;
 }
 
 .stopka{
@@ -146,4 +147,16 @@ height: 70px;
 .row{
 margin-right: 0px;
 margin-left: 0px;
+}
+
+.znaczek{
+list-style: disc;
+}
+
+.tlopodstrona2 {
+    background: url(img/tloa.jpg) center top no-repeat;
+}
+
+.tekstpodstrona2 {
+margin-top: 30px;
 }
